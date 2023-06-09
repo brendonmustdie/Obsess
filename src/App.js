@@ -43,7 +43,7 @@ function App() {
   return (
       <Router>
           <Routes>
-              <Route exact path='/' element={<HomePage />} />
+              <Route exact path='/obsess' element={<HomePage />} />
               <Route path='/obsess-artwork' element={<ObsessPage />} />
               <Route path= '/blogs' element={<BlogPage/>}/>
               <Route path='/design' element={<DesignPage/>}/>
