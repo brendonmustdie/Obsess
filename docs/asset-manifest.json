@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://github.com/brendonmustdie/Obsess/static/css/main.e6c13ad2.css",
+    "main.js": "https://github.com/brendonmustdie/Obsess/static/js/main.942d3ce4.js",
+    "static/js/787.05984887.chunk.js": "https://github.com/brendonmustdie/Obsess/static/js/787.05984887.chunk.js",
+    "index.html": "https://github.com/brendonmustdie/Obsess/index.html",
+    "main.e6c13ad2.css.map": "https://github.com/brendonmustdie/Obsess/static/css/main.e6c13ad2.css.map",
+    "main.942d3ce4.js.map": "https://github.com/brendonmustdie/Obsess/static/js/main.942d3ce4.js.map",
+    "787.05984887.chunk.js.map": "https://github.com/brendonmustdie/Obsess/static/js/787.05984887.chunk.js.map"
+  },
+  "entrypoints": [
+    "https://github.com/brendonmustdie/Obsess/static/css/main.e6c13ad2.css",
+    "https://github.com/brendonmustdie/Obsess/static/js/main.942d3ce4.js"
+  ]
+}
