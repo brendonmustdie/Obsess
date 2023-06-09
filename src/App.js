@@ -44,7 +44,7 @@ function App() {
       <Router>
           <Routes>
               <Route exact path='/' element={<HomePage />} />
-              <Route path='/obsess' element={<ObsessPage />} />
+              <Route path='/obsess-artwork' element={<ObsessPage />} />
               <Route path= '/blogs' element={<BlogPage/>}/>
               <Route path='/design' element={<DesignPage/>}/>
               <Route path='/whatisart' element={<WhatIsArt/>}/>
