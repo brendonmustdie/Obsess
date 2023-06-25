@@ -575,24 +575,12 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.visible{
-  visibility: visible;
-}
-
 .static{
   position: static;
 }
 
 .fixed{
   position: fixed;
-}
-
-.absolute{
-  position: absolute;
-}
-
-.relative{
-  position: relative;
 }
 
 .sticky{
@@ -616,10 +604,6 @@ video {
   display: grid;
 }
 
-.hidden{
-  display: none;
-}
-
 .h-\[200px\]{
   height: 200px;
 }
@@ -630,10 +614,6 @@ video {
 
 .grow{
   flex-grow: 1;
-}
-
-.resize{
-  resize: both;
 }
 
 .grid-cols-3{
@@ -821,12 +801,6 @@ video {
 .text-white{
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
-.blur{
-  --tw-blur: blur(8px);
-  -webkit-filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
-          filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
 
 .drop-shadow-lg{

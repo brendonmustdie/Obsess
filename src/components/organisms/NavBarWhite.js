@@ -1,5 +1,8 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom';
+import Toggle from "../atoms/Toggle";
+import MessageSpawner from "./MessageSpawner";
+
 
  
 const NavbarWhite = ({fontColor}) => {
@@ -12,6 +15,8 @@ const NavbarWhite = ({fontColor}) => {
         <Link to="/blogs"  className=" ml-[15px] text-white font-merriweather text-[20px]">Blog</Link>
         <Link to="/obsess-artwork"  className=" ml-[15px] text-white font-merriweather text-[20px]">Obsess</Link>
 
+        
+   
          </div>
         </>
         

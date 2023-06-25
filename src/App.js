@@ -17,6 +17,8 @@ import Wireframes from './pages/Wireframes';
 import Styleguide from './pages/Styleguide';
 import CritRef1 from './pages/CritRef1';
 import Essay from './pages/Essay';
+import Toggle from './components/atoms/Toggle';
+import MessageSpawner from './components/organisms/MessageSpawner';
 
 
 function HomePage() {
@@ -29,7 +31,10 @@ function HomePage() {
     <h1 className='text-[60px] font-merriweather text-white'>Experience</h1>
     <h1 className='text-[60px] font-merriweather text-white' >Obsession:</h1> 
     <p className='text-[20px] text-white'>Become your compulsions.</p>
-    <OButton/>
+    <Toggle>
+      <MessageSpawner/>
+    </Toggle>
+  
     </div>
     <Footer/>
     </div>
@@ -43,7 +48,7 @@ function App() {
   return (
       <Router>
           <Routes>
-              <Route exact path='/obsess' element={<HomePage />} />
+              <Route exact path='/' element={<HomePage />} />
               <Route path='/obsess-artwork' element={<ObsessPage />} />
               <Route path= '/blogs' element={<BlogPage/>}/>
               <Route path='/design' element={<DesignPage/>}/>

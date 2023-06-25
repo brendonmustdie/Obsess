@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom';
 import Navbar from '../components/organisms/NavBar';
 import Footer from '../components/organisms/Footer';
+import MessageSpawner from '../components/organisms/MessageSpawner';
 
 
 function ObsessPage() {
