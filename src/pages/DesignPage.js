@@ -18,7 +18,7 @@ function DesignPage() {
   <Link to="/styleguide"  className="bg-[url(./images/donuts.jpg)] bg-cover bg-no-repeat h-[200px] flex flex-col items-center justify-center text-center font-blackHan text-white">Updated Styleguide </Link>
   <Link to="/arttheory"  className="bg-[url(./images/pink-ice.jpg)] bg-cover bg-no-repeat h-[200px] flex flex-col items-center justify-center text-center font-blackHan text-white">Artwork Concept </Link>
   <Link to="/rationale"  className="bg-[url(./images/sherbert.jpg)] bg-cover bg-no-repeat h-[200px] flex flex-col items-center justify-center text-center font-blackHan text-white">Artwork Rationale </Link>
-  <Link to="/crit1"  className="bg-[url(./images/donuts2.jpg)] bg-cover bg-no-repeat h-[200px] flex flex-col items-center justify-center text-center font-blackHan text-white"> Critical Reflections </Link>
+  <Link to="/crit1"  className="bg-[url(./images/donuts2.jpg)] bg-cover bg-no-repeat h-[200px] flex flex-col items-center justify-center text-center font-blackHan text-white"> Updated Critical Reflections </Link>
  
 </div>
 </div>
