@@ -41,7 +41,7 @@ const Navbar = ({ fontColor }) => {
           } md:block md:flex md:items-center md:space-x-4`}
         >
           <Link
-            to="/obsess"
+            to="/"
             className="ml-[15px] text-white font-merriweather text-[20px]"
           >
             Home
