@@ -17,8 +17,9 @@ function BlogPage() {
   <Link to="/whatisart"  className="bg-[url(./images/yellow.jpg)] bg-cover bg-no-repeat h-[200px] flex flex-col items-center justify-center text-center font-blackHan text-white drop-shadow-lg"> What is internet art?</Link>
   <Link to="/adobe"  className="bg-[url(./images/donuts.jpg)] bg-cover bg-no-repeat h-[200px] flex flex-col items-center justify-center text-center font-blackHan text-white drop-shadow-lg"> Here lies Adobe Flash </Link>
   <Link to="/convention"  className="bg-[url(./images/pink-ice.jpg)] bg-cover bg-no-repeat h-[200px] flex flex-col items-center justify-center text-center font-blackHan text-white drop-shadow-lg">Convention and Context </Link>
-  <Link to="/essay"  className="bg-[url(./images/green-yellow.jpg)] bg-cover bg-no-repeat h-[200px] flex flex-col items-center justify-center text-center font-blackHan text-white drop-shadow-lg">Essay </Link>
-</div>
+  <Link to="/essay"  className="bg-[url(./images/sherbert.jpg)] bg-cover bg-no-repeat h-[200px] flex flex-col items-center justify-center text-center font-blackHan text-white drop-shadow-lg">Essay </Link>
+  <Link to="/hist"  className="bg-[url(./images/sherbert.jpg)] bg-cover bg-no-repeat h-[200px] flex flex-col items-center justify-center text-center font-blackHan text-white drop-shadow-lg">History </Link>
+  </div>
 </div>
 <Footer/>
       </>

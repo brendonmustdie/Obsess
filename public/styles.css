@@ -772,6 +772,18 @@ video {
   background-image: url(./images/yellow.jpg);
 }
 
+.bg-\[url\(\.\/images\/sherbert\.jpg\)\]{
+  background-image: url(./images/sherbert.jpg);
+}
+
+.bg-\[url\(\.\/images\/hex\.jpg\)\]{
+  background-image: url(./images/hex.jpg);
+}
+
+.bg-\[url\(\.\/images\/\.jpg\)\]{
+  background-image: url(./images/.jpg);
+}
+
 .bg-cover{
   background-size: cover;
 }

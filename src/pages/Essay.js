@@ -7,7 +7,7 @@ function Essay() {
   return (
     <>
     <Navbar/>
-   <div className=" bg-cover bg-no-repeat bg-[url(./images/green-yellow.jpg)] p-[100px]">
+   <div className=" bg-cover bg-no-repeat bg-[url(./images/sherbert.jpg)] p-[100px]">
      <div className='flex flex-col items-center justify-center text-center'>
       <h1 className='text-[60px] font-blackHan text-white'>Net Art Essay:</h1>
       </div>
