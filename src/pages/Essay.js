@@ -42,7 +42,7 @@ Hell: “...there were simply no great designers…HTML and CSS were both in the
 and so was the idea of a beautiful site.” (thenextweb, 2012)
 </p>
 <h2 className='font-semibold text-[30px]'>Interactivity:</h2>
-     </div>
+   
 <p className='mb-4'>Interactivity is a defining characteristic of internet art. Websites From Hell is interactive in
 that visitors can explore the various websites on display, interact with them, and experience
 the feeling of navigating through them. The website provides visitors with a more immersive
@@ -131,6 +131,7 @@ and a reminder of the importance of creating functional websites.</p>
 the Internet. DIGITAL ART WEEKLY | Medium</p>
   <p className='mb-4'>Ricci, B., n.d. Articles & Features. Agents Of Change: The Internet. Net Art and How The World
 Wide Web Has Created A New Medium. ARTLAND Magazine.</p>
+</div>
 <Footer/>
     </>
   );

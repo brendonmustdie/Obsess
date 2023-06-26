@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from 'react';
 
 const sentences = [
-  'Hello, world!',
-  'Welcome to my website.',
-  'Have a great day!',
-  'Stay curious and keep learning.',
-  'Enjoy the little things in life.',
-  'Never give up on your dreams.',
-  'Spread kindness everywhere you go.',
-  'Make today amazing!',
+  'I will never be good enough',
+  'I have lice, I can feel them crawling',
+  'If I dont click here, my family will die',
+  'I am exactly like my mother',
+  'I am a failure',
+  'I can feel myself gaining weight',
+  'He doesnt love me - he is pretending',
+  'I can feel the cancer growing in my cells',
 ];
 
 const MessageComponent = ({ message, onClick }) => {
