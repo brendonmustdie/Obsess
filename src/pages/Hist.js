@@ -3,13 +3,13 @@ import Navbar from "../components/organisms/NavBar";
 
 
 
-function Essay() {
+function Hist() {
   return (
     <>
     <Navbar/>
-   <div className=" bg-cover bg-no-repeat bg-[url(./images/.jpg)] p-[100px]">
+   <div className=" bg-cover bg-no-repeat bg-[url(./images/hex.jpg)] p-[100px]">
      <div className='flex flex-col items-center justify-center text-center'>
-      <h1 className='text-[60px] font-blackHan text-white'>Net Art Essay:</h1>
+      <h1 className='text-[60px] font-blackHan text-white'>Historry and Development:</h1>
       </div>
      </div>
 
@@ -47,5 +47,5 @@ function Essay() {
 
 
 
-export default Essay;
+export default Hist;
 

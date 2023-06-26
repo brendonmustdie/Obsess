@@ -18,7 +18,9 @@ function BlogPage() {
   <Link to="/adobe"  className="bg-[url(./images/donuts.jpg)] bg-cover bg-no-repeat h-[200px] flex flex-col items-center justify-center text-center font-blackHan text-white drop-shadow-lg"> Here lies Adobe Flash </Link>
   <Link to="/convention"  className="bg-[url(./images/pink-ice.jpg)] bg-cover bg-no-repeat h-[200px] flex flex-col items-center justify-center text-center font-blackHan text-white drop-shadow-lg">Convention and Context </Link>
   <Link to="/essay"  className="bg-[url(./images/sherbert.jpg)] bg-cover bg-no-repeat h-[200px] flex flex-col items-center justify-center text-center font-blackHan text-white drop-shadow-lg">Essay </Link>
-  <Link to="/hist"  className="bg-[url(./images/sherbert.jpg)] bg-cover bg-no-repeat h-[200px] flex flex-col items-center justify-center text-center font-blackHan text-white drop-shadow-lg">History </Link>
+  <Link to="/hist"  className="bg-[url(./images/hex.jpg)] bg-cover bg-no-repeat h-[200px] flex flex-col items-center justify-center text-center font-blackHan text-white drop-shadow-lg">History </Link>
+  <Link to="/codeart"  className="bg-[url(./images/balls.jpg)] bg-cover bg-no-repeat h-[200px] flex flex-col items-center justify-center text-center font-blackHan text-white drop-shadow-lg">If Brendon wrote C# </Link>
+  <Link to="/ai"  className="bg-[url(./images/choc.jpg)] bg-cover bg-no-repeat h-[200px] flex flex-col items-center justify-center text-center font-blackHan text-white drop-shadow-lg">AI and Art </Link>
   </div>
 </div>
 <Footer/>

@@ -17,8 +17,11 @@ import Wireframes from './pages/Wireframes';
 import Styleguide from './pages/Styleguide';
 import CritRef1 from './pages/CritRef1';
 import Essay from './pages/Essay';
+import Hist from './pages/Hist';
+import CodeArt from './pages/CodeArt';
 import Toggle from './components/atoms/Toggle';
 import MessageSpawner from './components/organisms/MessageSpawner';
+import AI from './pages/AI';
 
 
 function HomePage() {
@@ -61,6 +64,9 @@ function App() {
               <Route path='/styleguide' element={<Styleguide/>}/>
               <Route path='/crit1' element={<CritRef1/>}/>
               <Route path='/essay' element={<Essay/>}/>
+              <Route path='/hist' element={<Hist/>}/>
+              <Route path='/codeart' element={<CodeArt/>}/>
+              <Route path='/ai' element={<AI/>}/>
           </Routes>
       </Router>
   );
