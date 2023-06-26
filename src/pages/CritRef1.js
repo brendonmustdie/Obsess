@@ -20,14 +20,14 @@ function CritRef1() {
      </div>
 
      <div className='flex flex-col items-center justify-center p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
-     <p>
+     <p className='mb-4'>
         At the time of doing this crit, I still have a few hours left to work on
         my project. So when you view the complete pages, some of these may not
         apply. I just didn't want to wait too late to do them - but if I get the
         time, I will work through this list and fix issues I have.
       </p>
     <h2 className='font-semibold text-[30px]'>Navigation:</h2>
-    <p>Cons of navigation:</p>
+    <p className='mb-4'>Cons of navigation:</p>
     <ul>
     <li>
           A. This was a problem last time, that I haven't managed to fix: This is kind of a con of my design process - I didn't realize how
@@ -42,7 +42,7 @@ function CritRef1() {
         </li>
     </ul>
     <h2 className='font-semibold text-[30px]'>Updated Colours:</h2>
-    <p>I know in my previous iteration, I was very proud of using the pink colour pallete but I found a different image that I preffered for my cover image, and the colour pallette transitioned into more orange and yellow.</p>
+    <p className='mb-4'>I know in my previous iteration, I was very proud of using the pink colour pallete but I found a different image that I preffered for my cover image, and the colour pallette transitioned into more orange and yellow.</p>
 
    <Footer/>
     </div>

@@ -22,7 +22,7 @@ function Styleguide() {
     <p className='font-blackHan text-[50px]'>Black Han Sans</p>
     <h2 className='font-semibold text-[30px]'>Colours:</h2>
     <div className='bg-[#A46A7E] text-white px-3 py-1 rounded-full mt-[10px]'>#A46A7E buttons</div>
-<p>You can view my final sketches on my Figma, without an account: </p>
+<p className='mb-4'>You can view my final sketches on my Figma, without an account: </p>
 <Link to={"https://www.figma.com/community/file/1226618263333064468"}>here</Link>
 <Footer/>
     
