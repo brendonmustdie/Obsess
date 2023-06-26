@@ -12,7 +12,7 @@ function Wireframes() {
      </div>
     </div>
 
-    <div className='flex flex-col items-center justify-center p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
+    <div className='flex flex-col p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
     <h2 className='font-semibold text-[30px]'>Initial Wireframes:</h2>
     <h3 className='font-semibold text-[20px]'>Consistent Navigation:</h3>
     <p className='mb-4'>

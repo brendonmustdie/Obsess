@@ -12,7 +12,7 @@ function Convention() {
       </div>
      </div>
 
-     <div className='flex flex-col items-center justify-center p-[50px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
+     <div className='flex flex-col p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
      <p className='mb-4'>Mailloux defines conventions as “shared practices”, his paper seeks to examinwhow conventions are used in interpretation practices. (Mailloux, 1983)  He defines three kinds of conventions: (1) traditional conventions recognizing past regularities in action, (2) prescriptive conventions regulating future action, (3) constitutive conventions that determine present meaning.  (Mailloux, 1983) </p>
      <h2 className='font-semibold text-[20px]'>Traditional Conventions</h2>
      <p className='mb-4'>These conventions are based on precedents, and regularities. (Mailloux, 1983) i.e. “We do it this way because it has always been done this way.” Unfamiliar and unexpected practices which are adopted by multiple people, become traditional conventions.  (Mailloux, 1983) The first use of the hamburger menu may have had initial shock value, but once it was used by multiple developers, it became a convention - repetition is “an essential feature” of the traditional convention, repirition must become regularly performed. (Mailloux, 1983)   But what counts as repetition and regularity depend entirely on context. (Mailloux, 1983) </p>

@@ -16,7 +16,7 @@ function ObsessPage() {
       </div>
     </div>
 
-   <div className='flex flex-col items-center justify-center p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
+    <div className='flex flex-col p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
     
    <h2 className='font-semibold text-[30px]'>What is CBT?</h2>
       <p className='mb-4'>

@@ -13,7 +13,7 @@ function AI() {
       </div>
      </div>
 
-     <div className='flex flex-col items-center justify-center p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
+     <div className='flex flex-col p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
      <h2 className='font-semibold text-[30px]'>AI and Art:</h2>
      <p className='mb-4'>“Can artificial Intelligence Make Art without Artists”, by Sofian Audry and Jon Ippolito, tries to mediate the argument that machines “have some degree of creativity” (Leonel Moura) with the argument that machines cannot be ascribed creativity (Harold Cohen). (Audry, S., Ippolito, J., 2019) Before deciding that they’re asking the wrong questions. (Audry, S., Ippolito, J., 2019)</p>
      <p className='mb-4'>

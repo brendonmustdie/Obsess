@@ -13,7 +13,7 @@ function Hist() {
       </div>
      </div>
 
-     <div className='flex flex-col items-center justify-center p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
+     <div className='flex flex-col p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
      <h2 className='font-semibold text-[30px]'>History and Development:</h2>
      <p className='mb-4'>The internet has completely changed every aspect of our lives, pioneering new ways of creating, sharing, and enjoying art: Ricci claims that this makes it “the most disruptive art medium since the mid-twentieth century” (Ricci, B., 2020)</p>
      <p className='mb-4'>

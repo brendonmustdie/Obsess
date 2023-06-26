@@ -11,7 +11,7 @@ function WhatIsArt() {
       </div>
      </div>
 
-     <div className='flex flex-col items-center justify-center p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
+     <div className='flex flex-col p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
      <h2 className='font-semibold text-[30px]'>What is net/web art?</h2>
      <p className='mb-4'>Week 2’s readings brought up something that I’d never thought about before: How the internet will change the way art is created and even viewed. </p>
      <p className='mb-4'>Carrier’s, "The Work of Art in the Age of the Internet", (Carrier, 2020) uses Walter Benjamin’s 1936 “The Work of Art in the Age of Mechanical Reproduction” as a guide for understanding present day internet artwork. Benjamin discuss how the creation of film changes how plays/movies are created - in the early days of cinema, movies were filmed the way audiences would watch a play. (Benjamin, 1936) From a single view point, on a single set. (Carrier, 2020) But as film, as a medium, matured, filmmakers discovered new ways of using it - to get to the many different techniques we are familiar with in present day. (Carrier, 2020)</p>

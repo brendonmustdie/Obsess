@@ -14,7 +14,7 @@ function Styleguide() {
      <h1 className='text-[60px] font-blackHan text-white'>Styleguide:</h1>
      </div>
     </div>
-    <div className='flex flex-col items-center justify-center p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
+    <div className='flex flex-col p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
     <p className='italic'>My artwork is about being overwhelmed by obsession - my visuals are intended to contrast this by being calming.</p>
     <h2 className='font-semibold text-[30px]'>Fonts:</h2>
     <p className='font-merriweather text-[50px]'>Merriweather Sans</p>

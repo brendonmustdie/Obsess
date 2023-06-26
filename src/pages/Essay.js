@@ -13,7 +13,7 @@ function Essay() {
       </div>
      </div>
 
-     <div className='flex flex-col items-center justify-center p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
+     <div className='flex flex-col p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
      <h2 className='font-semibold text-[30px]'>Introduction to net art:</h2>
      <p className='mb-4'>Net Art sounds like it should be short for “internet art” but it’s, more accurately, short for
 “network art” – artists started exploring with Net Art in the 1970s, when end-user

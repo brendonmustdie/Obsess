@@ -13,7 +13,7 @@ function CodeArt() {
       </div>
      </div>
 
-     <div className='flex flex-col items-center justify-center p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
+     <div className='flex flex-col p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
      <h2 className='font-semibold text-[30px]'>Code::art: </h2>
      <p className='mb-4'>Code::art is an art journal which publishes code, in order to further explore the relationship between code and art. In article #0 (it’s cute that it’s called #0, the first number in programming, than #1) there are a myriad of artworks that I find really interesting. (Brand, S., 2019) </p>
      <p className='mb-4'>

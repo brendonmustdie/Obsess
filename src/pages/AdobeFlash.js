@@ -13,7 +13,7 @@ function AdobeFlash() {
       </div>
     </div>
 
-    <div className='flex flex-col items-center justify-center p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
+    <div className='flex flex-col p-[20px] text-left font-merriweather text-[#A46A7E] leading-relaxed'>
     <p className='italic'>Grant me the serenity to accept the things I cannot change, the strength to change the things I can, and the wisdom to know the difference. </p>
     <p className='mb-4'>McNamara’s “RIP Adobe Flash; Five Takeaways About the Plug-in’s Legacy in Net Art” (2020) memorializes the dissolve of Adobe Flash, a proprietry format of internet art, games, and websites. Adobe Flashed shaped the internet and internet art, as well as digital art, because it hosted some of the first internet artworks and games. (McNamara, 2020)</p>
     <p className='mb-4'>“Flash let us dream what we wanted the internet to look like” - Nathalie Lawhead.   (McNamara, 2020) McNamara states that Flash shaped the early 2000’s web aesthetic because it allowed users to develop and play animations, audio and video content. Flash based art led the way for interactive artworks, digital animations, art websites and games - because it was an accessible software tool.  (McNamara, 2020) Later in the article, McNamara quotes Cat Bluemke venting about the cost of Adobe Creative suite - “The way art schools give you four beautiful years of Adobe Create Suite, and then rips it away from you: ‘oh, now you have to pay for this now, and it’s more than your food budget’.”</p>
